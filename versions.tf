@@ -16,7 +16,7 @@ terraform {
     organization = "tcb123"
 
     workspaces {
-      name = "Sentinel-Demo"
+      name = "sentinel-tfe"
     }
   }
 
